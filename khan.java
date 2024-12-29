@@ -13,6 +13,8 @@ class khan
     System.out.println(l);*/
    noshin n=new noshin();
    n.disp();
+   vbnbvhfhf
+   nvhfhffh
         
         
 
