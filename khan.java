@@ -15,7 +15,9 @@ class khan
    n.disp();
    vbnbvhfhf
    nvhfhffh
-        
+        vnvjfjdhdhd
+       fbfdbfgbfddgfd
+       bbbgbgdb
         
 
 
